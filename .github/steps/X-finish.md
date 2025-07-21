@@ -5,7 +5,7 @@
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+*Congratulations friend, you've completed this course!*
 
 <img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
